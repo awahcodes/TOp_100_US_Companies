@@ -6,8 +6,12 @@ I created a slicer to enable any user filter by the company's name using the alp
 Yes, this would have been really smooth on PowerBI, but Excel made it even exciting.
 
 Outcomes:
-Toatl Revenue by these 100 companies: USD 10.5Million
-Average Revenue for the 100 companies: USD 104k
-Total employess for the 100: 16.6 Million
+Total Revenue by these 100 companies: USD 10.5Million.
+Average Revenue for the 100 companies: USD 104k.
+Total employess for the 100 companies: 16.6 Million.
 
-Texas, California had the top footprint of companies with the highest Revenue
+Texas, California and D.C had the top most footprint of companies with the highest Revenue.
+Retail and health care Industries were the top 2 in the 1 -25th position.
+Transportation  and Financial services Industries were the top 2 in the 26 -50th position.
+Retail and Aerospace  Industries were the top 2 in the 51 -75th position.
+Retail and Food Industries were the top 2 in the 76 to 100th position.
