@@ -2,7 +2,7 @@
 Wanted to try my hands again on MS Excel having used PowerBI for most of my data analysis and dashboard building.
 The data was sourced from kaggle and shows the largest companies in the US by revenue for the year 2022.
 #New Attribute:
-I created a slicer to enable any user filter by the company's name using the alphabets. Thus, should you have your eyes for a particular company of interest, just click on the alphabet "A" if Apple to see their details.
+I created a slicer to enable any user filter by the company's name using their first alphabets. Thus, should you have your eyes for a particular company of interest, just click on the alphabet "A" if Apple, to see their details.
 Yes, this would have been really smooth on PowerBI, but Excel made it even exciting.
 
 Outcomes:
