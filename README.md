@@ -8,7 +8,7 @@ Yes, this would have been really smooth on PowerBI, but Excel made it even excit
 Outcomes:
 Total Revenue by these 100 companies: USD 10.5Million.
 Average Revenue for the 100 companies: USD 104k.
-Total employess for the 100 companies: 16.6 Million.
+Total employees for the 100 companies: 16.6 Million.
 
 Texas, California and D.C had the top most footprint of companies with the highest Revenue.
 Retail and health care Industries were the top 2 in the 1 -25th position.
